@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital Management Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <header>
+            <h1>Hospital Management Dashboard</h1>
+            <button id="logout-button" class="btn">Logout</button>
+        </header>
+        
+        <section class="patient-management">
+            <h2>Patient Management</h2>
+            <button id="fetch-patients" class="btn primary">View All Patients</button>
+            <table id="patient-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Age</th>
+                        <th>Gender</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                </tbody>
+            </table>
+        </section>
+    </div>
+
+    <script src="dashboard.js"></script>
+</body>
+</html>
