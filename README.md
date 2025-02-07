@@ -51,7 +51,7 @@ This repository contains the work, technologies learned, and projects developed 
 ## Project Screenshots
 
 ### 1. Login Page
-![Login Page](About-Internship/pictures_about_project/login.jpg)
+![Login Page](pictures_about_project/login.jpg)
 
 ### 2. Website Main View
 ![Website View](pictures_about_project/dashboard.jpg)
