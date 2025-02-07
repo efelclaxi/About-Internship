@@ -15,7 +15,7 @@ This repository contains the work, technologies learned, and projects developed 
 - **Installed MySQL and WAMP Server**
 - Practiced **SQL queries** for database management
 - Started **web development process**
-- Worked on **[script.js](./path_to_script.js) and [index2.html](./path_to_index2.html) in Visual Studio Code**
+- Worked on **[script.js](Index2/script.js) and [index2.html](Index2/index2.html) in Visual Studio Code**
 - **Tested database and website connectivity**
 - Switched from **XAMPP to WAMP Server** to resolve compatibility issues
 
@@ -45,8 +45,8 @@ This repository contains the work, technologies learned, and projects developed 
 ## Installation
 1. Download and install **Visual Studio Code**
 2. Install and run **WAMP Server**
-3. Create a **MySQL database** and import the necessary tables ([SQL Script](./path_to_database.sql))
-4. Modify files like **[index2.html](./path_to_index2.html) and [script.js](./path_to_script.js)** to further develop the project
+3. Create a **MySQL database** and define the necessary tables manually.  
+4. Modify files like **[index2.html](Index2/index2.html) and [script.js](Index2/script.js)** to further develop the project  
 5. Install **MSYS2** and necessary libraries for C projects
 
 ## Sample SQL Queries
