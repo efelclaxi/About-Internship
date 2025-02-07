@@ -48,6 +48,16 @@ This repository contains the work, technologies learned, and projects developed 
 3. Create a **MySQL database** and import the necessary tables
 4. Modify files like `index2.html` and `script.js` to further develop the project
 5. Install **MSYS2** and necessary libraries for C projects
+## Project Screenshots
+
+### 1. Login Page
+![Login Page](pictures_about_project/başlıksız.jpg)
+
+### 2. Website Main View
+![Website View](pictures_about_project/başlıksız2.jpg)
+
+### 3. Additional Page View
+![Additional View](pictures_about_project/başlıksız3.jpg)
 
 ## Contact
 If you have any questions or would like to contribute to the project, feel free to reach out.
