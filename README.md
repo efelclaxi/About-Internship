@@ -51,13 +51,13 @@ This repository contains the work, technologies learned, and projects developed 
 ## Project Screenshots
 
 ### 1. Login Page
-![Login Page](pictures_about_project/başlıksız.jpg)
+![Login Page](About-Internship/pictures_about_project/login.jpg)
 
 ### 2. Website Main View
-![Website View](pictures_about_project/başlıksız2.jpg)
+![Website View](pictures_about_project/dashboard.jpg)
 
 ### 3. Additional Page View
-![Additional View](pictures_about_project/başlıksız3.jpg)
+![Additional View](pictures_about_project/homepage.jpg)
 
 ## Contact
 If you have any questions or would like to contribute to the project, feel free to reach out.
